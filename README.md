@@ -11,7 +11,7 @@ The main objective was to design a dashboard that allows business users and mana
 ---
 ## 🔗 Project Resources
 
-📊 **[View Sales Dashboard](Screenshots/Sales_Dashboard.png)**
+📊 **[View Sales Dashboard]([Screenshots/Sales_Dashboard.png](https://github.com/Yashborawake/Data-Analysis-Dashboard/blob/main/Sales_Dashboard.png)**
 
 📥 **[View / Download Sales Dataset](https://github.com/Yashborawake/Data-Analysis-Dashboard/blob/main/Excel_Sales_dataset.xlsx)**
 
