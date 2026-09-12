@@ -38,7 +38,7 @@ This project addresses these questions through an **interactive Excel dashboard*
 
 ## 🖼️ Dashboard Preview
 
-![Sales Dashboard](Screenshots/Sales_Dashboard.png)
+![Sales Dashboard]([Screenshots/Sales_Dashboard.png](https://github.com/Yashborawake/Data-Analysis-Dashboard/blob/main/Sales_Dashboard.png))
 
 ---
 
